@@ -12,19 +12,23 @@
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Setup**         | 10 / 10 |
+| **Execution**     | 20 / 20 |
+| **Documentation** | 10 / 10 |
+| **Presentation**  | 25 / 30 |
+| **Total**         | 65 / 70 |
 
 ### Reflection
 <!-- Edit the following section with your reflection -->
 
 #### What went well?
+#### Getting to know more about the data
 #### What did not go well?
+#### Figuring out the best model
 #### What did you learn?
+#### Machine learning models and the mutliple use of them. 
 #### What would you do differently next time?
+#### Plan on a bigger research project. 
 
 ---
 
